@@ -147,3 +147,10 @@ params:
             enabled: true
         content:
             enabled: true
+
+    categoryColors:
+        沉迷观鸟: "birdwatching"
+        俺滴菜谱: "cooking"
+        书籍: "books"
+        音乐: "music"
+        电影: "film"
